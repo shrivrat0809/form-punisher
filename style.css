@@ -17,7 +17,12 @@ body {
   }
 
   .name-input {
-    margin-right: 25px;
+    margin-right: -10px;
+    width: 27vw;
+  }
+  
+  .mail {
+    width: 24vw;
   }
 
   .btn-div {
@@ -39,7 +44,7 @@ body {
 
   .msg-input {
     height: 9vw;
-    width: 50vw;
+    width: 51vw;
     padding-top: 0vw;
   }
 
