@@ -1,0 +1,62 @@
+body {
+  background: linear-gradient(to right, #00ff00, #0000ff);
+}
+
+.card {
+  background: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 5vw;
+  }
+
+  .first-input {
+    display: flex;
+    margin-left: 5px;
+  }
+
+  .name-input {
+    margin-right: 25px;
+  }
+
+  .btn-div {
+    text-align: center;
+  }
+  .btn {
+    color: azure;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-top: 5vw;
+    border-radius: 2px;
+    font-weight: bold;
+    font-family: Arial;
+    background: linear-gradient(to right, #00ff00, #0000ff);
+  }
+
+  .msg-input {
+    height: 9vw;
+    width: 50vw;
+    padding-top: 0vw;
+  }
+
+  input {
+    border:none;
+    background-color: rgb(238, 236, 236);
+    padding: 6px;
+    padding-left: 17px;
+    width: 20vw;
+  }
+  .web {
+    width: 50vw;
+    padding: 1vw;
+  }
+  
+
+  .txt {
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
